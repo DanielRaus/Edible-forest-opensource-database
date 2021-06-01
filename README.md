@@ -2,7 +2,7 @@
 
 In collaboration with ValonRexhepi and DepBastos, 2th year I.T. students of HES-SO Sierre / Switzerland, during the Agricathon 2021.
 
-The aim of this project is to provide a data start to help farmers and anyone wishing to create an edible and responsible forest.
+The first aim of this project is to provide a data start to help farmers and anyone wishing to create an edible and responsible forest. However, this database can be completed and can be used for any other purpose.
 
 This open source project will remain free, open and public to everyone. Anyone who wants to use and contribute to this project is welcome as no such database exists to date.
 
